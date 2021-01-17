@@ -13,3 +13,12 @@ print(myString[::-1])
 # Immutablility
 # name = "Sam"
 # name[0] = 'p'
+
+
+#1. upper()
+
+#	To convert lower case into upper
+
+#2. split()
+
+#	to split string into list
